@@ -4,16 +4,16 @@
  <h4>🎓 Sobre mim:</h4>
 🌍 Moro no Rio de Janeiro. <br>
 📚 Atualmente cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF). <br>
-📊 Explorando o mundo dos dados para transformar informações em insights valiosos. Atualmente aprimorando minhas habilidades em SQL avançado, ETL, Python e Big Data.
+📊 Aprofundando meus conhecimentos técnicos para criar pipelines eficientes, garantir a qualidade dos dados e otimizar processos para potencializar a tomada de decisão nas empresas.<br>
 
-💻 Tecnologias que estou estudando e utilizando:
+💻 Tecnologias que estou estudando e utilizando: <br>
 
-🐍 Python (Pandas, PySpark)
-🛢️ SQL (Otimização de queries, modelagem de dados)
-🔄 ETL & Pipelines (Airflow, dbt)
-☁️ Cloud (AWS, GCP, Azure)
-📊 Big Data (Hadoop, Spark)
-🎯 Atualmente em busca de um estágio na área de Engenharia de Dados.
+🐍 Python (Pandas, PySpark) <br>
+🛢️ SQL (Otimização de queries, modelagem de dados) <br>
+🔄 ETL & Pipelines (Airflow, dbt) <br>
+☁️ Cloud (AWS, GCP, Azure) <br>
+📊 Big Data (Hadoop, Spark) <br>
+🎯 Atualmente em busca de um estágio na área de Engenharia de Dados.<br>
 
 <h4>📫 Entre em contato: </h4>
 📧 Envie-me um e-mail para margarida.ssousa@outlook.com. <br>
