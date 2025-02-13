@@ -19,15 +19,3 @@
 📧 Envie-me um e-mail para margarida.ssousa@outlook.com. <br>
 🔗 <a href="https://www.linkedin.com/in/margarida-ssousa/"> Meu perfil no LinkedIn </a>
 
-## 
-
-</div>
-<h3> 👩🏻‍💻 Conhecimentos: </h3>
-<div style="display: inline_block"> <br>
-<img align="center" height="50" width="50" src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
-  <img align="center" height="50" width="50" src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
-  <img align="center" height="50" width="50" src="https://devicon-website.vercel.app/api/bootstrap/original.svg"></img>
-  <img align="center" height="50" width="50"src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-  <img align="center" height="50" width="50" src="https://devicon-website.vercel.app/api/git/original.svg"></img>
-  <img align="center" height="50" width="50" src="https://devicon-website.vercel.app/api/github/original.svg"></img>
-</div>
