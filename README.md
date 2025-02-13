@@ -6,7 +6,7 @@
 📚 Atualmente cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF). <br>
 📊 Aprofundando meus conhecimentos técnicos para criar pipelines eficientes, garantir a qualidade dos dados e otimizar processos para potencializar a tomada de decisão nas empresas.<br>
 <br>
-<h4>💻 Tecnologias que estou estudando e utilizando:</h4>
+<h4>💻 Tecnologias que estou estudando:</h4>
 
 🐍 Python (Pandas, PySpark) <br>
 🛢️ SQL (Otimização de queries, modelagem de dados) <br>
