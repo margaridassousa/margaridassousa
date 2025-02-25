@@ -2,7 +2,7 @@
 
 <div>
  <h4>🎓 Sobre mim:</h4>
-📚 Atualmente cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF). <br>
+📚 Cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF). <br>
 📊 Aprofundando meus conhecimentos técnicos para criar pipelines eficientes, garantir a qualidade dos dados e otimizar processos para potencializar a tomada de decisão nas empresas.<br>
 <br>
 <h4>💻 Tecnologias que estou estudando:</h4>
